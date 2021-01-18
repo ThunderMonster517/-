@@ -1,0 +1,3 @@
+C:\Users\KEENU REEVES\Desktop\新建文件夹\新建文件夹\Debug\Project2.pdb
+C:\Users\KEENU REEVES\Desktop\新建文件夹\新建文件夹\Project2\Debug\Project2.exe
+C:\Users\KEENU REEVES\Desktop\新建文件夹\新建文件夹\Project2\Debug\Project2.pdb
